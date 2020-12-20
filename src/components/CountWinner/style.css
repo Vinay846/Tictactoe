@@ -1,0 +1,30 @@
+.countWinner1 {
+    width: 240px;
+    height: 140px;
+    position: absolute;
+    top: 166px;
+    left: 0px;
+    border-radius: 0 5px 5px 0;
+    color: white;
+    background: #00c9b7;
+    padding: 10px 20px;
+    font-size: 30px;
+    box-shadow: 0 0 50px rgb(26, 25, 25);
+    }
+
+
+.countWinner2 {
+    width: 240px;
+    height: 140px;
+    position: absolute;
+    top: 166px;
+    right: 0px;
+    border-radius: 0 5px 5px 0;
+    color: white;
+    background: #00c9b7;
+    padding: 10px 20px;
+    font-size: 30px;
+    box-shadow: 0 0 50px rgb(26, 25, 25);
+    }
+  
+  

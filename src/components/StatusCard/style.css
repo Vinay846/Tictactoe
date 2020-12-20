@@ -1,0 +1,24 @@
+.player1 {
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  border-radius: 0 5px 5px 0;
+  color: white;
+  background: #00c9b7;
+  padding: 10px 20px;
+  font-size: 30px;
+  box-shadow: 0 0 50px #E91E63;
+  }
+
+.player2 {
+  position: absolute;
+  top: 20px;
+  right: 0px;
+  border-radius: 0 5px 5px 0;
+  color: white;
+  background: #00c9b7;
+  padding: 10px 20px;
+  font-size: 30px;
+  box-shadow: 0 0 50px #E91E63;
+  }
+
